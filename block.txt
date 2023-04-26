@@ -1,2 +1,2 @@
-0.0.0.0 whiomplatform.hwcloudtest.cn
-0.0.0.0 hwcloudtest.cn
+127.0.0.1 whiomplatform.hwcloudtest.cn
+127.0.0.1 hwcloudtest.cn
